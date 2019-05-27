@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  c++5.cpp
+c:\users\hp301\documents\visual studio 2015\projects\c++5\c++5\c++5.cpp(147): warning C4101: “i”: 未引用的局部变量
+  c++5.vcxproj -> c:\users\hp301\documents\visual studio 2015\Projects\c++5\Debug\c++5.exe
+  c++5.vcxproj -> c:\users\hp301\documents\visual studio 2015\Projects\c++5\Debug\c++5.pdb (Full PDB)
